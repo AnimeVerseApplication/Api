@@ -1,9 +1,9 @@
 [
   {
-    "version": 1
+    "package": "com.anime.verse"
   },
   {
-    "package": "com.anime.verse"
+    "version": 1
   },
   {
     "status": true
